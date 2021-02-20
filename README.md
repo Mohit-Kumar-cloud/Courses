@@ -1,2 +1,2 @@
 # Courses
-Github repository to keep resources of online courses done by me
+Github repository to track and store resources of online courses done
